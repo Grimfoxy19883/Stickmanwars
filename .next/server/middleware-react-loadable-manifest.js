@@ -1,1 +1,1 @@
-self.__REACT_LOADABLE_MANIFEST="{}"
+self.__REACT_LOADABLE_MANIFEST="{\"pages/index.js -> ../components/GameEngine\":{\"id\":\"pages/index.js -> ../components/GameEngine\",\"files\":[\"static/chunks/components_GameEngine_js.js\"]}}"
